@@ -49,3 +49,6 @@
 [submodule "zeus-sdk"]
 	path = zeus-sdk
 	url = https://github.com/liquidapps-io/zeus-sdk.git
+[submodule "eos-contracts-best-practices"]
+	path = eos-contracts-best-practices
+	url = https://github.com/liquidapps-io/eos-contracts-best-practices.git
