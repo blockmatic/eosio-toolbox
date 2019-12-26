@@ -46,3 +46,6 @@
 [submodule "eosc"]
 	path = eosc
 	url = https://github.com/eoscanada/eosc.git
+[submodule "zeus-sdk"]
+	path = zeus-sdk
+	url = https://github.com/liquidapps-io/zeus-sdk.git
