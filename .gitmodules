@@ -7,3 +7,6 @@
 [submodule "lamington"]
 	path = lamington
 	url = https://github.com/CoinageCrypto/lamington.git
+[submodule "eos-encrypt"]
+	path = eos-encrypt
+	url = https://github.com/EOS-Nation/eos-encrypt.git
