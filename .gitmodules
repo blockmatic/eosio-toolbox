@@ -37,3 +37,6 @@
 [submodule "light-api"]
 	path = light-api
 	url = https://github.com/eoscafe/light-api.git
+[submodule "eos-paper-wallet"]
+	path = eos-paper-wallet
+	url = https://github.com/eoscafe/eos-paper-wallet.git
