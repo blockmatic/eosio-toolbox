@@ -34,3 +34,6 @@
 [submodule "hyperion-api"]
 	path = hyperion-api
 	url = https://github.com/eoscafe/hyperion-api.git
+[submodule "light-api"]
+	path = light-api
+	url = https://github.com/eoscafe/light-api.git
