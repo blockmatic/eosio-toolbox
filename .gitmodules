@@ -19,3 +19,6 @@
 [submodule "swift-eosio"]
 	path = swift-eosio
 	url = https://github.com/greymass/swift-eosio.git
+[submodule "eosio_light_api"]
+	path = eosio_light_api
+	url = https://github.com/cc32d9/eosio_light_api.git
