@@ -13,3 +13,6 @@
 [submodule "eosio-signing-transport"]
 	path = eosio-signing-transport
 	url = https://github.com/greymass/eosio-signing-transport
+[submodule "eosio-explorer"]
+	path = eosio-explorer
+	url = https://github.com/EOSIO/eosio-explorer.git
