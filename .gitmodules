@@ -4,3 +4,6 @@
 [submodule "bancorx"]
 	path = bancorx
 	url = https://github.com/EOS-Nation/bancorx.git
+[submodule "lamington"]
+	path = lamington
+	url = https://github.com/CoinageCrypto/lamington.git
