@@ -22,3 +22,6 @@
 [submodule "eosio_light_api"]
 	path = eosio_light_api
 	url = https://github.com/cc32d9/eosio_light_api.git
+[submodule "delphioracle"]
+	path = delphioracle
+	url = https://github.com/eostitan/delphioracle.git
