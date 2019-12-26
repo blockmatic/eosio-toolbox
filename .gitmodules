@@ -1,3 +1,6 @@
 [submodule "eos-common"]
 	path = eos-common
 	url = https://github.com/EOS-Nation/eos-common.git
+[submodule "bancorx"]
+	path = bancorx
+	url = https://github.com/EOS-Nation/bancorx.git
