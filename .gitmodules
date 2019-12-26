@@ -16,3 +16,6 @@
 [submodule "eosio-explorer"]
 	path = eosio-explorer
 	url = https://github.com/EOSIO/eosio-explorer.git
+[submodule "swift-eosio"]
+	path = swift-eosio
+	url = https://github.com/greymass/swift-eosio.git
