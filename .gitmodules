@@ -43,3 +43,6 @@
 [submodule "rapidjson"]
 	path = rapidjson
 	url = https://github.com/Tencent/rapidjson.git
+[submodule "eosc"]
+	path = eosc
+	url = https://github.com/eoscanada/eosc.git
