@@ -1,0 +1,3 @@
+[submodule "eos-common"]
+	path = eos-common
+	url = https://github.com/EOS-Nation/eos-common.git
