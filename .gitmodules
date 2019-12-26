@@ -31,3 +31,6 @@
 [submodule "SimpleAssets"]
 	path = SimpleAssets
 	url = https://github.com/CryptoLions/SimpleAssets.git
+[submodule "hyperion-api"]
+	path = hyperion-api
+	url = https://github.com/eoscafe/hyperion-api.git
