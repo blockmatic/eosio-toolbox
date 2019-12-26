@@ -10,3 +10,6 @@
 [submodule "eos-encrypt"]
 	path = eos-encrypt
 	url = https://github.com/EOS-Nation/eos-encrypt.git
+[submodule "eosio-signing-transport"]
+	path = eosio-signing-transport
+	url = https://github.com/greymass/eosio-signing-transport
