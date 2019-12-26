@@ -25,3 +25,6 @@
 [submodule "delphioracle"]
 	path = delphioracle
 	url = https://github.com/eostitan/delphioracle.git
+[submodule "EOSIO-State-Track"]
+	path = EOSIO-State-Track
+	url = https://github.com/GetScatter/EOSIO-State-Track.git
