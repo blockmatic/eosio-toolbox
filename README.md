@@ -4,7 +4,7 @@ A collection of EOSIO dev tools as git submodules
 
 ## Blockmatic
 
-Blockmatic is building a robust ecosystem of people and tools for development of decentralized applications.
+Blockmatic is building a robust ecosystem of people and tools for the development of blockchain applications.
 
 [blockmatic.io](https://blockmatic.io)
 
